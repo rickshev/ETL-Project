@@ -1,0 +1,392 @@
+row_n,id,name,gender,species,birthday,personality,song,phrase,full_id,url
+2,admiral,Admiral,male,bird,27-Jan,cranky,Steep Hill,aye aye,villager-admiral,https://villagerdb.com/images/villagers/thumb/admiral.98206ee.png
+3,agent-s,Agent S,female,squirrel,2-Jul,peppy,DJ K.K.,sidekick,villager-agent-s,https://villagerdb.com/images/villagers/thumb/agent-s.96c789b.png
+4,agnes,Agnes,female,pig,21-Apr,uchi,K.K. House,snuffle,villager-agnes,https://villagerdb.com/images/villagers/thumb/agnes.9f51f32.png
+6,al,Al,male,gorilla,18-Oct,lazy,Steep Hill,Ayyeeee,villager-al,https://villagerdb.com/images/villagers/thumb/al.1e17090.png
+7,alfonso,Alfonso,male,alligator,9-Jun,lazy,Forest Life,it'sa me,villager-alfonso,https://villagerdb.com/images/villagers/thumb/alfonso.11327a1.png
+8,alice,Alice,female,koala,19-Aug,normal,Surfin' K.K.,guvnor,villager-alice,https://villagerdb.com/images/villagers/thumb/alice.729310b.png
+9,alli,Alli,female,alligator,8-Nov,snooty,K.K. Chorale,graaagh,villager-alli,https://villagerdb.com/images/villagers/thumb/alli.9b3d167.png
+10,amelia,Amelia,female,eagle,19-Nov,snooty,K.K. Condor,eaglet,villager-amelia,https://villagerdb.com/images/villagers/thumb/amelia.a5b5497.png
+11,anabelle,Anabelle,female,anteater,16-Feb,peppy,Aloha K.K.,snorty,villager-anabelle,https://villagerdb.com/images/villagers/thumb/anabelle.1321353.png
+13,anchovy,Anchovy,male,bird,4-Mar,lazy,K.K. Ragtime,chuurp,villager-anchovy,https://villagerdb.com/images/villagers/thumb/anchovy.489c5a8.png
+14,angus,Angus,male,bull,30-Apr,cranky,Senor K.K.,macmoo,villager-angus,https://villagerdb.com/images/villagers/thumb/angus.c19901d.png
+15,anicotti,Anicotti,female,mouse,24-Feb,peppy,Neapolitan,cannoli,villager-anicotti,https://villagerdb.com/images/villagers/thumb/anicotti.2c20797.png
+16,ankha,Ankha,female,cat,22-Sep,snooty,Marine Song 2001,me meow,villager-ankha,https://villagerdb.com/images/villagers/thumb/ankha.8bffa26.png
+17,annalisa,Annalisa,female,anteater,6-Feb,normal,King K.K.,gumdrop,villager-annalisa,https://villagerdb.com/images/villagers/thumb/annalisa.3aa1e28.png
+18,annalise,Annalise,female,horse,2-Dec,snooty,K.K. Sonata,nipper,villager-annalise,https://villagerdb.com/images/villagers/thumb/annalise.22c21bd.png
+19,antonio,Antonio,male,anteater,20-Oct,jock,K.K. Faire,honk,villager-antonio,https://villagerdb.com/images/villagers/thumb/antonio.2deee10.png
+20,apollo,Apollo,male,eagle,4-Jul,cranky,K.K. Rock,pah,villager-apollo,https://villagerdb.com/images/villagers/thumb/apollo.c0b4a36.png
+21,apple,Apple,female,hamster,24-Sep,peppy,I Love You,cheekers,villager-apple,https://villagerdb.com/images/villagers/thumb/apple.6b49f8c.png
+22,astrid,Astrid,female,kangaroo,8-Sep,snooty,I Love You,my pet,villager-astrid,https://villagerdb.com/images/villagers/thumb/astrid.c0d79fc.png
+23,audie,Audie,female,wolf,31-Aug,peppy,NA,foxtrot,villager-audie,https://villagerdb.com/images/villagers/thumb/audie.a8a9c8b.png
+24,aurora,Aurora,female,penguin,27-Jan,normal,K.K. Gumbo,b-b-baby,villager-aurora,https://villagerdb.com/images/villagers/thumb/aurora.e5f2dd3.png
+25,ava,Ava,female,chicken,28-Apr,normal,K.K. Country,beaker,villager-ava,https://villagerdb.com/images/villagers/thumb/ava.045f29d.png
+26,avery,Avery,male,eagle,22-Feb,cranky,K.K. Condor,skree-haw,villager-avery,https://villagerdb.com/images/villagers/thumb/avery.d153359.png
+27,axel,Axel,male,elephant,23-Mar,jock,K.K. Dixie,WHONK,villager-axel,https://villagerdb.com/images/villagers/thumb/axel.39dee06.png
+29,baabara,Baabara,female,sheep,28-Mar,snooty,K.K. Swing,daahling,villager-baabara,https://villagerdb.com/images/villagers/thumb/baabara.65ef685.png
+30,bam,Bam,male,deer,7-Nov,jock,DJ K.K.,boosh,villager-bam,https://villagerdb.com/images/villagers/thumb/bam.d07e2b9.png
+31,bangle,Bangle,female,tiger,27-Aug,peppy,K.K. Soul,growf,villager-bangle,https://villagerdb.com/images/villagers/thumb/bangle.6701bed.png
+32,barold,Barold,male,cub,2-Mar,lazy,My Place,cubby,villager-barold,https://villagerdb.com/images/villagers/thumb/barold.2eb90dc.png
+33,bea,Bea,female,dog,15-Oct,normal,K.K. Soul,bingo,villager-bea,https://villagerdb.com/images/villagers/thumb/bea.8f6a99c.png
+34,beardo,Beardo,male,bear,27-Sep,smug,K.K. Sonata,whiskers,villager-beardo,https://villagerdb.com/images/villagers/thumb/beardo.13376a9.png
+35,beau,Beau,male,deer,5-Apr,lazy,Mountain Song,saltlick,villager-beau,https://villagerdb.com/images/villagers/thumb/beau.b905798.png
+36,becky,Becky,female,chicken,9-Dec,snooty,K.K. Aria,chicklet,villager-becky,https://villagerdb.com/images/villagers/thumb/becky.06357d0.png
+37,bella,Bella,female,mouse,28-Dec,peppy,K.K. Metal,eeks,villager-bella,https://villagerdb.com/images/villagers/thumb/bella.bc524e9.png
+39,benedict,Benedict,male,chicken,10-Oct,lazy,I Love You,uh-hoo,villager-benedict,https://villagerdb.com/images/villagers/thumb/benedict.c5bf6e4.png
+40,benjamin,Benjamin,male,dog,3-Aug,lazy,Wandering,alrighty,villager-benjamin,https://villagerdb.com/images/villagers/thumb/benjamin.10404ec.png
+41,bertha,Bertha,female,hippo,25-Apr,normal,Space K.K.,bloop,villager-bertha,https://villagerdb.com/images/villagers/thumb/bertha.2ab6a08.png
+43,bettina,Bettina,female,mouse,12-Jun,normal,K.K. Swing,eekers,villager-bettina,https://villagerdb.com/images/villagers/thumb/bettina.3dcf3e5.png
+45,bianca,Bianca,female,tiger,13-Dec,peppy,K.K. House,glimmer,villager-bianca,https://villagerdb.com/images/villagers/thumb/bianca.4af2dd6.png
+46,biff,Biff,male,hippo,29-Mar,jock,The K. Funk,squirt,villager-biff,https://villagerdb.com/images/villagers/thumb/biff.ab45180.png
+47,big-top,Big Top,male,elephant,3-Oct,lazy,K.K. Metal,villain,villager-big-top,https://villagerdb.com/images/villagers/thumb/big-top.712f96b.png
+48,bill,Bill,male,duck,1-Feb,jock,King K.K.,quacko,villager-bill,https://villagerdb.com/images/villagers/thumb/bill.8510deb.png
+49,billy,Billy,male,goat,25-Mar,jock,K.K. Sonata,dagnaabit,villager-billy,https://villagerdb.com/images/villagers/thumb/billy.af94e28.png
+50,biskit,Biskit,male,dog,13-May,lazy,K.K. Mambo,dawg,villager-biskit,https://villagerdb.com/images/villagers/thumb/biskit.d9970b1.png
+51,bitty,Bitty,female,hippo,6-Oct,snooty,K.K. Disco,my dear,villager-bitty,https://villagerdb.com/images/villagers/thumb/bitty.8efdbe9.png
+52,blaire,Blaire,female,squirrel,3-Jul,snooty,K.K. Island,nutlet,villager-blaire,https://villagerdb.com/images/villagers/thumb/blaire.8fd60b3.png
+53,blanche,Blanche,female,ostrich,21-Dec,snooty,K.K. Jongara,quite so,villager-blanche,https://villagerdb.com/images/villagers/thumb/blanche.8b2f4c0.png
+55,bluebear,Bluebear,female,cub,24-Jun,peppy,K.K. Ska,peach,villager-bluebear,https://villagerdb.com/images/villagers/thumb/bluebear.1aa8065.png
+56,bob,Bob,male,cat,1-Jan,lazy,K.K. Ragtime,pthhhpth,villager-bob,https://villagerdb.com/images/villagers/thumb/bob.aead5ef.png
+57,bonbon,Bonbon,female,rabbit,3-Mar,peppy,K.K. Disco,deelish,villager-bonbon,https://villagerdb.com/images/villagers/thumb/bonbon.9e6f5e4.png
+58,bones,Bones,male,dog,4-Aug,lazy,Forest Life,yip yip,villager-bones,https://villagerdb.com/images/villagers/thumb/bones.6a1e8ee.png
+59,boomer,Boomer,male,penguin,7-Feb,lazy,Aloha K.K.,tu-tutu,villager-boomer,https://villagerdb.com/images/villagers/thumb/boomer.78f716a.png
+60,boone,Boone,male,gorilla,12-Sep,jock,K.K. Western,baboom,villager-boone,https://villagerdb.com/images/villagers/thumb/boone.9cf0af4.png
+61,boots,Boots,male,alligator,7-Aug,jock,K.K. Rally,munchie,villager-boots,https://villagerdb.com/images/villagers/thumb/boots.5dd3706.png
+62,boris,Boris,male,pig,6-Nov,cranky,K.K. House,schnort,villager-boris,https://villagerdb.com/images/villagers/thumb/boris.4c0d705.png
+64,boyd,Boyd,male,gorilla,1-Oct,cranky,K.K. Groove,uh-oh,villager-boyd,https://villagerdb.com/images/villagers/thumb/boyd.b66164c.png
+65,bree,Bree,female,mouse,7-Jul,snooty,Two Days Ago,cheeseball,villager-bree,https://villagerdb.com/images/villagers/thumb/bree.58b9f96.png
+66,broccolo,Broccolo,male,mouse,30-Jun,lazy,K.K. Ragtime,eat it,villager-broccolo,https://villagerdb.com/images/villagers/thumb/broccolo.8477172.png
+67,broffina,Broffina,female,chicken,24-Oct,snooty,K.K. Flamenco,cluckadoo,villager-broffina,https://villagerdb.com/images/villagers/thumb/broffina.48c4d13.png
+68,bruce,Bruce,male,deer,26-May,cranky,K.K. Blues,gruff,villager-bruce,https://villagerdb.com/images/villagers/thumb/bruce.ca6bf01.png
+69,bubbles,Bubbles,female,hippo,18-Sep,peppy,K.K. Stroll,hipster,villager-bubbles,https://villagerdb.com/images/villagers/thumb/bubbles.b385564.png
+70,buck,Buck,male,horse,4-Apr,jock,My Place,pardner,villager-buck,https://villagerdb.com/images/villagers/thumb/buck.c5ea50f.png
+71,bud,Bud,male,lion,8-Aug,jock,K.K. Ska,maaan,villager-bud,https://villagerdb.com/images/villagers/thumb/bud.5c88e55.png
+72,bunnie,Bunnie,female,rabbit,9-May,peppy,K.K. Aria,tee-hee,villager-bunnie,https://villagerdb.com/images/villagers/thumb/bunnie.28160cd.png
+73,butch,Butch,male,dog,1-Nov,cranky,K.K. Fusion,ROOOOOWF,villager-butch,https://villagerdb.com/images/villagers/thumb/butch.3f1e4c2.png
+74,buzz,Buzz,male,eagle,7-Dec,cranky,K.K. Rally,captain,villager-buzz,https://villagerdb.com/images/villagers/thumb/buzz.a4eb5eb.png
+75,cally,Cally,female,squirrel,4-Sep,normal,K.K. Love Song,WHEE,villager-cally,https://villagerdb.com/images/villagers/thumb/cally.2e2d4a5.png
+76,camofrog,Camofrog,male,frog,5-Jun,cranky,K.K. Rock,ten-hut,villager-camofrog,https://villagerdb.com/images/villagers/thumb/camofrog.ca20698.png
+77,canberra,Canberra,female,koala,14-May,uchi,K.K. House,nuh uh,villager-canberra,https://villagerdb.com/images/villagers/thumb/canberra.bc76454.png
+78,candi,Candi,female,mouse,13-Apr,peppy,K.K. Ragtime,sweetie,villager-candi,https://villagerdb.com/images/villagers/thumb/candi.143024c.png
+80,carmen2,Carmen,female,rabbit,6-Jan,peppy,K.K. Technopop,nougat,villager-carmen2,https://villagerdb.com/images/villagers/thumb/carmen2.3a5c418.png
+81,caroline,Caroline,female,squirrel,15-Jul,normal,DJ K.K.,hulaaaa,villager-caroline,https://villagerdb.com/images/villagers/thumb/caroline.4eadcbc.png
+82,carrie,Carrie,female,kangaroo,5-Dec,normal,K.K. Lullaby,little one,villager-carrie,https://villagerdb.com/images/villagers/thumb/carrie.528bf16.png
+84,cashmere,Cashmere,female,sheep,2-Apr,snooty,K.K. Country,baaaby,villager-cashmere,https://villagerdb.com/images/villagers/thumb/cashmere.3f42544.png
+86,celia,Celia,female,eagle,25-Mar,normal,K.K. Aria,feathers,villager-celia,https://villagerdb.com/images/villagers/thumb/celia.1ca8986.png
+87,cesar,Cesar,male,gorilla,6-Sep,cranky,K.K. Lament,Highness,villager-cesar,https://villagerdb.com/images/villagers/thumb/cesar.8e3d234.png
+88,chadder,Chadder,male,mouse,15-Dec,smug,K.K. Soul,fromage,villager-chadder,https://villagerdb.com/images/villagers/thumb/chadder.2a4db94.png
+92,charlise,Charlise,female,bear,17-Apr,uchi,Mr. K.K.,urgh,villager-charlise,https://villagerdb.com/images/villagers/thumb/charlise.9824d46.png
+94,cheri,Cheri,female,cub,17-Mar,peppy,K.K. Synth,tralala,villager-cheri,https://villagerdb.com/images/villagers/thumb/cheri.324dc26.png
+95,cherry,Cherry,female,dog,11-May,uchi,K.K. Fusion,what what,villager-cherry,https://villagerdb.com/images/villagers/thumb/cherry.d4d77df.png
+96,chester,Chester,male,cub,6-Aug,lazy,Imperial K.K.,rookie,villager-chester,https://villagerdb.com/images/villagers/thumb/chester.e0be47e.png
+97,chevre,Chevre,female,goat,6-Mar,normal,K.K. Chorale,la baa,villager-chevre,https://villagerdb.com/images/villagers/thumb/chevre.1b3996a.png
+99,chief,Chief,male,wolf,19-Dec,cranky,DJ K.K.,harrumph,villager-chief,https://villagerdb.com/images/villagers/thumb/chief.b7590e2.png
+100,chops,Chops,male,pig,13-Oct,smug,K.K. Moody,Zoink,villager-chops,https://villagerdb.com/images/villagers/thumb/chops.a5578b5.png
+101,chow,Chow,male,bear,22-Jul,cranky,K.K. Steppe,aiya,villager-chow,https://villagerdb.com/images/villagers/thumb/chow.71446df.png
+102,chrissy,Chrissy,female,rabbit,28-Aug,peppy,K.K. Waltz,sparkles,villager-chrissy,https://villagerdb.com/images/villagers/thumb/chrissy.4e1c5bc.png
+105,claude,Claude,male,rabbit,3-Dec,lazy,Pondering,hopalong,villager-claude,https://villagerdb.com/images/villagers/thumb/claude.cbcba90.png
+106,claudia,Claudia,female,tiger,22-Nov,snooty,K.K. Synth,ooh la la,villager-claudia,https://villagerdb.com/images/villagers/thumb/claudia.139645e.png
+107,clay,Clay,male,hamster,19-Oct,lazy,K.K. Safari,thump,villager-clay,https://villagerdb.com/images/villagers/thumb/clay.ef6377c.png
+108,cleo,Cleo,female,horse,9-Feb,snooty,K.K. Synth,sugar,villager-cleo,https://villagerdb.com/images/villagers/thumb/cleo.1e065f3.png
+109,clyde,Clyde,male,horse,1-May,lazy,K.K. Dixie,clip-clawp,villager-clyde,https://villagerdb.com/images/villagers/thumb/clyde.579e108.png
+110,coach,Coach,male,bull,29-Apr,jock,Marine Song 2001,stubble,villager-coach,https://villagerdb.com/images/villagers/thumb/coach.ae2000b.png
+111,cobb,Cobb,male,pig,7-Oct,jock,Pondering,hot dog,villager-cobb,https://villagerdb.com/images/villagers/thumb/cobb.5dbf962.png
+112,coco,Coco,female,rabbit,1-Mar,normal,K.K. Dirge,doyoing,villager-coco,https://villagerdb.com/images/villagers/thumb/coco.15c2793.png
+113,cole,Cole,male,rabbit,10-Aug,lazy,Spring Blossoms,duuude,villager-cole,https://villagerdb.com/images/villagers/thumb/cole.0b902b2.png
+114,colton,Colton,male,horse,22-May,smug,Only Me,check it,villager-colton,https://villagerdb.com/images/villagers/thumb/colton.4420162.png
+115,cookie,Cookie,female,dog,18-Jun,peppy,DJ K.K.,arfer,villager-cookie,https://villagerdb.com/images/villagers/thumb/cookie.cba9a61.png
+116,cousteau,Cousteau,male,frog,17-Dec,jock,Imperial K.K.,oui oui,villager-cousteau,https://villagerdb.com/images/villagers/thumb/cousteau.b3e4f1a.png
+117,cranston,Cranston,male,ostrich,23-Sep,lazy,Steep Hill,sweatband,villager-cranston,https://villagerdb.com/images/villagers/thumb/cranston.6bc9c9d.png
+118,croque,Croque,male,frog,18-Jul,cranky,K.K. Jongara,as if,villager-croque,https://villagerdb.com/images/villagers/thumb/croque.8e96dcf.png
+119,cube,Cube,male,penguin,29-Jan,lazy,K.K. Technopop,d-d-dude,villager-cube,https://villagerdb.com/images/villagers/thumb/cube.73bb409.png
+121,curlos,Curlos,male,sheep,8-May,smug,K.K. Samba,shearly,villager-curlos,https://villagerdb.com/images/villagers/thumb/curlos.9ec1681.png
+122,curly,Curly,male,pig,26-Jul,jock,K.K. Reggae,nyoink,villager-curly,https://villagerdb.com/images/villagers/thumb/curly.1905df0.png
+123,curt,Curt,male,bear,1-Jul,cranky,K.K. Lament,fuzzball,villager-curt,https://villagerdb.com/images/villagers/thumb/curt.74f2089.png
+124,cyd,Cyd,male,elephant,9-Jun,cranky,NA,rockin',villager-cyd,https://villagerdb.com/images/villagers/thumb/cyd.b0f5164.png
+125,cyrano,Cyrano,male,anteater,9-Mar,cranky,K.K. Faire,ah-CHOO,villager-cyrano,https://villagerdb.com/images/villagers/thumb/cyrano.b6e3e44.png
+126,daisy,Daisy,female,dog,16-Nov,normal,K.K. Soul,bow-WOW,villager-daisy,https://villagerdb.com/images/villagers/thumb/daisy.21f8556.png
+127,deena,Deena,female,duck,27-Jun,normal,Mr. K.K.,sugarbill,villager-deena,https://villagerdb.com/images/villagers/thumb/deena.cfc6bc6.png
+128,deirdre,Deirdre,female,deer,4-May,uchi,K.K. Cruisin',whatevs,villager-deirdre,https://villagerdb.com/images/villagers/thumb/deirdre.61725d1.png
+129,del,Del,male,alligator,27-May,cranky,K.K. March,gronk,villager-del,https://villagerdb.com/images/villagers/thumb/del.5f28b25.png
+130,deli,Deli,male,monkey,24-May,lazy,K.K. Marathon,monch,villager-deli,https://villagerdb.com/images/villagers/thumb/deli.25ac023.png
+131,derwin,Derwin,male,duck,25-May,lazy,The K. Funk,derrrrr,villager-derwin,https://villagerdb.com/images/villagers/thumb/derwin.1102d1e.png
+132,diana,Diana,female,deer,4-Jan,snooty,Stale Cupcakes,no doy,villager-diana,https://villagerdb.com/images/villagers/thumb/diana.48878b0.png
+133,diva,Diva,female,frog,2-Oct,uchi,K.K.  Bazaar,ya know,villager-diva,https://villagerdb.com/images/villagers/thumb/diva.68bc832.png
+134,dizzy,Dizzy,male,elephant,14-Jul,lazy,K.K. Gumbo,woo-oo,villager-dizzy,https://villagerdb.com/images/villagers/thumb/dizzy.d678c76.png
+135,dobie,Dobie,male,wolf,17-Feb,cranky,K.K. Lament,ohmmm,villager-dobie,https://villagerdb.com/images/villagers/thumb/dobie.2baed03.png
+136,doc,Doc,male,rabbit,16-Mar,lazy,Pondering,ol' bunny,villager-doc,https://villagerdb.com/images/villagers/thumb/doc.b0b8f78.png
+137,dom,Dom,male,sheep,18-Mar,jock,NA,indeedaroo,villager-dom,https://villagerdb.com/images/villagers/thumb/dom.d8bbaf2.png
+138,dora,Dora,female,mouse,18-Feb,normal,Only Me,squeaky,villager-dora,https://villagerdb.com/images/villagers/thumb/dora.c72494d.png
+139,dotty,Dotty,female,rabbit,14-Mar,peppy,K.K. Technopop,wee one,villager-dotty,https://villagerdb.com/images/villagers/thumb/dotty.f526931.png
+141,drago,Drago,male,alligator,12-Feb,lazy,Imperial K.K.,burrrn,villager-drago,https://villagerdb.com/images/villagers/thumb/drago.168853c.png
+142,drake,Drake,male,duck,25-Jun,lazy,K.K. Blues,quacko,villager-drake,https://villagerdb.com/images/villagers/thumb/drake.2cec2ff.png
+143,drift,Drift,male,frog,9-Oct,jock,K.K. Country,brah,villager-drift,https://villagerdb.com/images/villagers/thumb/drift.8959814.png
+144,ed,Ed,male,horse,16-Sep,smug,K.K. Ballad,greenhorn,villager-ed,https://villagerdb.com/images/villagers/thumb/ed.10248fb.png
+145,egbert,Egbert,male,chicken,14-Oct,lazy,K.K. Technopop,doodle-duh,villager-egbert,https://villagerdb.com/images/villagers/thumb/egbert.e261253.png
+147,elise,Elise,female,monkey,21-Mar,snooty,Neapolitan,puh-lease,villager-elise,https://villagerdb.com/images/villagers/thumb/elise.aa507f1.png
+148,ellie,Ellie,female,elephant,12-May,normal,Cafe K.K.,wee one,villager-ellie,https://villagerdb.com/images/villagers/thumb/ellie.5a144a6.png
+149,elmer,Elmer,male,horse,5-Oct,lazy,K.K. Waltz,tenderfoot,villager-elmer,https://villagerdb.com/images/villagers/thumb/elmer.cc7df52.png
+150,eloise,Eloise,female,elephant,8-Dec,snooty,K.K. Jazz,tooooot,villager-eloise,https://villagerdb.com/images/villagers/thumb/eloise.112208b.png
+151,elvis,Elvis,male,lion,23-Jul,cranky,K.K. Casbah,unh-hunh,villager-elvis,https://villagerdb.com/images/villagers/thumb/elvis.57d4757.png
+154,erik,Erik,male,deer,27-Jul,lazy,Neapolitan,chow down,villager-erik,https://villagerdb.com/images/villagers/thumb/erik.634470d.png
+156,eugene,Eugene,male,koala,26-Oct,smug,K.K. Cruisin',yeah buddy,villager-eugene,https://villagerdb.com/images/villagers/thumb/eugene.bf0f034.png
+157,eunice,Eunice,female,sheep,3-Apr,normal,K.K. Waltz,lambchop,villager-eunice,https://villagerdb.com/images/villagers/thumb/eunice.d41ea5b.png
+159,fang,Fang,male,wolf,18-Dec,cranky,K.K. Calypso,cha-chomp,villager-fang,https://villagerdb.com/images/villagers/thumb/fang.d57ed2d.png
+160,fauna,Fauna,female,deer,26-Mar,normal,K.K. Stroll,dearie,villager-fauna,https://villagerdb.com/images/villagers/thumb/fauna.c2822f0.png
+161,felicity,Felicity,female,cat,30-Mar,peppy,K.K. Lullaby,mimimi,villager-felicity,https://villagerdb.com/images/villagers/thumb/felicity.3d1588b.png
+163,filbert,Filbert,male,squirrel,3-Jun,lazy,Two Days Ago,bucko,villager-filbert,https://villagerdb.com/images/villagers/thumb/filbert.6af9047.png
+166,flip,Flip,male,monkey,21-Nov,jock,K.K. Rally,rerack,villager-flip,https://villagerdb.com/images/villagers/thumb/flip.cea8f6a.png
+167,flo,Flo,female,penguin,2-Sep,uchi,Space K.K.,cha,villager-flo,https://villagerdb.com/images/villagers/thumb/flo.e6f3a67.png
+168,flora,Flora,female,ostrich,9-Feb,peppy,K.K. Flamenco,pinky,villager-flora,https://villagerdb.com/images/villagers/thumb/flora.b45e15f.png
+170,flurry,Flurry,female,hamster,30-Jan,normal,Hypno K.K.,powderpuff,villager-flurry,https://villagerdb.com/images/villagers/thumb/flurry.51964e7.png
+171,francine,Francine,female,rabbit,22-Jan,snooty,I Love You,karat,villager-francine,https://villagerdb.com/images/villagers/thumb/francine.5987d9c.png
+172,frank,Frank,male,eagle,30-Jul,cranky,K.K. Casbah,crushy,villager-frank,https://villagerdb.com/images/villagers/thumb/frank.7bf1286.png
+173,freckles,Freckles,female,duck,19-Feb,peppy,K.K. Song,ducky,villager-freckles,https://villagerdb.com/images/villagers/thumb/freckles.75c6f56.png
+174,freya,Freya,female,wolf,14-Dec,snooty,Rockin' K.K.,uff da,villager-freya,https://villagerdb.com/images/villagers/thumb/freya.7664fac.png
+175,friga,Friga,female,penguin,16-Oct,snooty,K.K. Tango,brrmph,villager-friga,https://villagerdb.com/images/villagers/thumb/friga.cefe559.png
+176,frita,Frita,female,sheep,16-Jul,uchi,K.K. Rockabilly,oh ewe,villager-frita,https://villagerdb.com/images/villagers/thumb/frita.2aeae4c.png
+177,frobert,Frobert,male,frog,8-Feb,jock,My Place,fribbit,villager-frobert,https://villagerdb.com/images/villagers/thumb/frobert.8f7ac2b.png
+179,fuchsia,Fuchsia,female,deer,19-Sep,uchi,K.K. Rock,girlfriend,villager-fuchsia,https://villagerdb.com/images/villagers/thumb/fuchsia.49018bf.png
+180,gabi,Gabi,female,rabbit,16-Dec,peppy,K.K. Love Song,honeybun,villager-gabi,https://villagerdb.com/images/villagers/thumb/gabi.d051104.png
+181,gala,Gala,female,pig,5-Mar,normal,Two Days Ago,snortie,villager-gala,https://villagerdb.com/images/villagers/thumb/gala.210a5e4.png
+183,gaston,Gaston,male,rabbit,28-Oct,cranky,K.K. Dirge,mon chou,villager-gaston,https://villagerdb.com/images/villagers/thumb/gaston.180e0ab.png
+184,gayle,Gayle,female,alligator,17-May,normal,Bubblegum K.K.,snacky,villager-gayle,https://villagerdb.com/images/villagers/thumb/gayle.1e71dc2.png
+186,genji,Genji,male,rabbit,21-Jan,jock,King K.K.,otaku,villager-genji,https://villagerdb.com/images/villagers/thumb/genji.2238f1d.png
+187,gigi,Gigi,female,frog,11-Aug,snooty,Only Me,ribette,villager-gigi,https://villagerdb.com/images/villagers/thumb/gigi.d3e4caf.png
+188,gladys,Gladys,female,ostrich,15-Jan,normal,K.K. Folk,stretch,villager-gladys,https://villagerdb.com/images/villagers/thumb/gladys.0306b19.png
+189,gloria,Gloria,female,duck,12-Aug,snooty,K.K. Milonga,quacker,villager-gloria,https://villagerdb.com/images/villagers/thumb/gloria.dea9ef2.png
+190,goldie,Goldie,female,dog,27-Dec,normal,K.K. Bossa,woof,villager-goldie,https://villagerdb.com/images/villagers/thumb/goldie.c53a01b.png
+191,gonzo,Gonzo,male,koala,13-Oct,cranky,K.K. D & B,mate,villager-gonzo,https://villagerdb.com/images/villagers/thumb/gonzo.e10c457.png
+192,goose,Goose,male,chicken,4-Oct,jock,K.K. Country,buh-kay,villager-goose,https://villagerdb.com/images/villagers/thumb/goose.2871e8a.png
+193,graham,Graham,male,hamster,20-Jun,smug,Bubblegum K.K.,Indeed,villager-graham,https://villagerdb.com/images/villagers/thumb/graham.f4b3a2e.png
+194,greta,Greta,female,mouse,5-Sep,snooty,K.K. Jongara,yelp,villager-greta,https://villagerdb.com/images/villagers/thumb/greta.ab98e06.png
+195,grizzly,Grizzly,male,bear,31-Jul,cranky,K.K. Dirge,grrr,villager-grizzly,https://villagerdb.com/images/villagers/thumb/grizzly.daf5928.png
+196,groucho,Groucho,male,bear,23-Oct,cranky,K.K. Metal,grumble,villager-groucho,https://villagerdb.com/images/villagers/thumb/groucho.4178052.png
+197,gruff,Gruff,male,goat,29-Aug,cranky,K.K. Rockabilly,bleh eh eh,villager-gruff,https://villagerdb.com/images/villagers/thumb/gruff.0ae77c0.png
+198,gwen,Gwen,female,penguin,23-Jan,snooty,Drivin',h-h-hon,villager-gwen,https://villagerdb.com/images/villagers/thumb/gwen.5368258.png
+200,hamlet,Hamlet,male,hamster,30-May,jock,K.K. Reggae,hammie,villager-hamlet,https://villagerdb.com/images/villagers/thumb/hamlet.9f3e819.png
+201,hamphrey,Hamphrey,male,hamster,25-Feb,cranky,K.K. Rally,snort,villager-hamphrey,https://villagerdb.com/images/villagers/thumb/hamphrey.744a3e2.png
+203,hans,Hans,male,gorilla,5-Dec,smug,K.K. D & B,groovy,villager-hans,https://villagerdb.com/images/villagers/thumb/hans.d5d5d34.png
+204,harry,Harry,male,hippo,7-Jan,cranky,K.K. Calypso,beach bum,villager-harry,https://villagerdb.com/images/villagers/thumb/harry.886f4e0.png
+206,hazel2,Hazel,female,squirrel,30-Aug,uchi,K.K. Disco,uni-wow,villager-hazel2,https://villagerdb.com/images/villagers/thumb/hazel2.576d6ec.png
+208,henry,Henry,male,frog,21-Sep,smug,K.K. Soul,snoozit,villager-henry,https://villagerdb.com/images/villagers/thumb/henry.7b8f297.png
+209,hippeux,Hippeux,male,hippo,15-Oct,smug,K.K. Moody,Natch,villager-hippeux,https://villagerdb.com/images/villagers/thumb/hippeux.5deabda.png
+211,hopkins,Hopkins,male,rabbit,11-Mar,lazy,I Love You,thumper,villager-hopkins,https://villagerdb.com/images/villagers/thumb/hopkins.5cefcea.png
+212,hopper,Hopper,male,penguin,6-Apr,cranky,Lucky K.K.,slushie,villager-hopper,https://villagerdb.com/images/villagers/thumb/hopper.07bc6e4.png
+213,hornsby,Hornsby,male,rhino,20-Mar,lazy,K.K. Lament,schnozzle,villager-hornsby,https://villagerdb.com/images/villagers/thumb/hornsby.fa9963e.png
+214,huck,Huck,male,frog,9-Jul,smug,I Love You,hopper,villager-huck,https://villagerdb.com/images/villagers/thumb/huck.94c3b04.png
+216,hugh,Hugh,male,pig,30-Dec,lazy,K.K. Mambo,snortle,villager-hugh,https://villagerdb.com/images/villagers/thumb/hugh.ff4a1b5.png
+217,iggly,Iggly,male,penguin,2-Nov,jock,K.K. March,waddler,villager-iggly,https://villagerdb.com/images/villagers/thumb/iggly.a20a7ec.png
+219,ike,Ike,male,bear,16-May,cranky,K.K. Rock,bowes,villager-ike,https://villagerdb.com/images/villagers/thumb/ike.ca79022.png
+221,jacob,Jacob,male,bird,24-Aug,lazy,K.K. Song,Chuuuuurp,villager-jacob,https://villagerdb.com/images/villagers/thumb/jacob.bca60b9.png
+222,jacques,Jacques,male,bird,22-Jun,smug,K.K. House,zut alors,villager-jacques,https://villagerdb.com/images/villagers/thumb/jacques.5cead74.png
+223,jambette,Jambette,female,frog,27-Oct,normal,K.K. Country,croak-kay,villager-jambette,https://villagerdb.com/images/villagers/thumb/jambette.9aa374a.png
+225,jay,Jay,male,bird,17-Jul,jock,K.K. Waltz,heeeeeyy,villager-jay,https://villagerdb.com/images/villagers/thumb/jay.67eb780.png
+226,jeremiah,Jeremiah,male,frog,8-Jul,lazy,K.K. Mambo,nee-deep,villager-jeremiah,https://villagerdb.com/images/villagers/thumb/jeremiah.72ea500.png
+227,jitters,Jitters,male,bird,2-Feb,jock,K.K. Samba,bzzert,villager-jitters,https://villagerdb.com/images/villagers/thumb/jitters.2c93771.png
+229,joey,Joey,male,duck,3-Jan,lazy,K.K. Calypso,bleeeeeck,villager-joey,https://villagerdb.com/images/villagers/thumb/joey.95ab32e.png
+231,judy,Judy,female,cub,10-Mar,snooty,NA,myohmy,villager-judy,https://villagerdb.com/images/villagers/thumb/judy.15d7848.png
+232,julia,Julia,female,ostrich,31-Jul,snooty,K.K. Sonata,dahling,villager-julia,https://villagerdb.com/images/villagers/thumb/julia.8d164d6.png
+233,julian,Julian,male,horse,15-Mar,smug,Stale Cupcakes,glitter,villager-julian,https://villagerdb.com/images/villagers/thumb/julian.f543df6.png
+234,june,June,female,cub,21-May,normal,K.K. Aria,rainbow,villager-june,https://villagerdb.com/images/villagers/thumb/june.6533f6c.png
+235,kabuki,Kabuki,male,cat,29-Nov,cranky,K.K. Folk,meooo-OH,villager-kabuki,https://villagerdb.com/images/villagers/thumb/kabuki.9a33c57.png
+236,katt,Katt,female,cat,27-Apr,uchi,Surfin' K.K.,purrty,villager-katt,https://villagerdb.com/images/villagers/thumb/katt.5415f25.png
+237,keaton,Keaton,male,eagle,1-Jun,smug,K.K. Moody,wingo,villager-keaton,https://villagerdb.com/images/villagers/thumb/keaton.7ac65f4.png
+238,ken,Ken,male,chicken,23-Dec,smug,Comrade K.K.,no doubt,villager-ken,https://villagerdb.com/images/villagers/thumb/ken.b0f94f1.png
+239,ketchup,Ketchup,female,duck,27-Jul,peppy,Neapolitan,bitty,villager-ketchup,https://villagerdb.com/images/villagers/thumb/ketchup.6a5bfd7.png
+240,kevin,Kevin,male,pig,26-Apr,jock,K.K. Island,weeweewee,villager-kevin,https://villagerdb.com/images/villagers/thumb/kevin.66db909.png
+241,kid-cat,Kid Cat,male,cat,1-Aug,jock,Go K.K. Rider!,psst,villager-kid-cat,https://villagerdb.com/images/villagers/thumb/kid-cat.b237735.png
+242,kidd,Kidd,male,goat,28-Jun,smug,Comrade K.K.,wut,villager-kidd,https://villagerdb.com/images/villagers/thumb/kidd.563ba6f.png
+243,kiki,Kiki,female,cat,8-Oct,normal,K.K. Country,kitty cat,villager-kiki,https://villagerdb.com/images/villagers/thumb/kiki.d16a153.png
+245,kitt,Kitt,female,kangaroo,11-Oct,normal,K.K. Chorale,child,villager-kitt,https://villagerdb.com/images/villagers/thumb/kitt.7513f97.png
+246,kitty,Kitty,female,cat,15-Feb,snooty,K.K. Etude,mrowrr,villager-kitty,https://villagerdb.com/images/villagers/thumb/kitty.31a383a.png
+247,klaus,Klaus,male,bear,31-Mar,smug,K.K. Milonga,strudel,villager-klaus,https://villagerdb.com/images/villagers/thumb/klaus.e573b88.png
+248,knox,Knox,male,chicken,23-Nov,cranky,K.K. Aria,cluckling,villager-knox,https://villagerdb.com/images/villagers/thumb/knox.f98c3e4.png
+249,kody,Kody,male,cub,28-Sep,jock,K.K. Country,okey-dokey,villager-kody,https://villagerdb.com/images/villagers/thumb/kody.f432e9f.png
+251,kyle,Kyle,male,wolf,6-Dec,smug,K.K. Adventure,alpha,villager-kyle,https://villagerdb.com/images/villagers/thumb/kyle.5b0c928.png
+253,leonardo,Leonardo,male,tiger,15-May,jock,K.K. Safari,flexin,villager-leonardo,https://villagerdb.com/images/villagers/thumb/leonardo.c951fa9.png
+254,leopold,Leopold,male,lion,14-Aug,smug,Mr. K.K.,lion cub,villager-leopold,https://villagerdb.com/images/villagers/thumb/leopold.dcfb481.png
+255,lily,Lily,female,frog,4-Feb,normal,K.K. Salsa,toady,villager-lily,https://villagerdb.com/images/villagers/thumb/lily.f1d9d64.png
+256,limberg,Limberg,male,mouse,17-Oct,cranky,K.K. Folk,squinky,villager-limberg,https://villagerdb.com/images/villagers/thumb/limberg.b416b19.png
+257,lionel,Lionel,male,lion,29-Jul,smug,K.K. Moody,precisely,villager-lionel,https://villagerdb.com/images/villagers/thumb/lionel.b762c09.png
+259,lobo,Lobo,male,wolf,5-Nov,cranky,K.K. Safari,ah-rooooo,villager-lobo,https://villagerdb.com/images/villagers/thumb/lobo.554f514.png
+260,lolly,Lolly,female,cat,27-Mar,normal,K.K. Stroll,bonbon,villager-lolly,https://villagerdb.com/images/villagers/thumb/lolly.1e747aa.png
+261,lopez,Lopez,male,deer,20-Aug,smug,K.K. Milonga,buckaroo,villager-lopez,https://villagerdb.com/images/villagers/thumb/lopez.23078f7.png
+262,louie,Louie,male,gorilla,26-Mar,jock,NA,toots,villager-louie,https://villagerdb.com/images/villagers/thumb/louie.dd1948b.png
+263,lucha,Lucha,male,bird,12-Dec,smug,K.K. Western,cacaw,villager-lucha,https://villagerdb.com/images/villagers/thumb/lucha.9438a3c.png
+264,lucky,Lucky,male,dog,4-Nov,lazy,K.K. Dirge,rrr-owch,villager-lucky,https://villagerdb.com/images/villagers/thumb/lucky.69c97f6.png
+265,lucy,Lucy,female,pig,2-Jun,normal,Comrade K.K.,snoooink,villager-lucy,https://villagerdb.com/images/villagers/thumb/lucy.beed29d.png
+268,lyman,Lyman,male,koala,12-Oct,jock,K.K. Island,chips,villager-lyman,https://villagerdb.com/images/villagers/thumb/lyman.0308825.png
+269,mac,Mac,male,dog,11-Nov,jock,My Place,woo woof,villager-mac,https://villagerdb.com/images/villagers/thumb/mac.bedbc23.png
+271,maddie,Maddie,female,dog,11-Jan,peppy,Forest Life,yippee,villager-maddie,https://villagerdb.com/images/villagers/thumb/maddie.b131964.png
+272,maelle,Maelle,female,duck,8-Apr,snooty,Cafe K.K.,duckling,villager-maelle,https://villagerdb.com/images/villagers/thumb/maelle.21bfc2e.png
+273,maggie,Maggie,female,pig,3-Sep,normal,Forest Life,schep,villager-maggie,https://villagerdb.com/images/villagers/thumb/maggie.1235270.png
+274,mallary,Mallary,female,duck,17-Nov,snooty,K.K. Bossa,quackpth,villager-mallary,https://villagerdb.com/images/villagers/thumb/mallary.e58de55.png
+275,maple,Maple,female,cub,15-Jun,normal,I Love You,honey,villager-maple,https://villagerdb.com/images/villagers/thumb/maple.d71f5a4.png
+276,marcel,Marcel,male,dog,31-Dec,lazy,Comrade K.K.,non,villager-marcel,https://villagerdb.com/images/villagers/thumb/marcel.1e273b7.png
+277,marcie,Marcie,female,kangaroo,31-May,normal,K.K. Aria,pouches,villager-marcie,https://villagerdb.com/images/villagers/thumb/marcie.bb7b5fc.png
+279,margie,Margie,female,elephant,28-Jan,normal,K.K. Bossa,tootie,villager-margie,https://villagerdb.com/images/villagers/thumb/margie.a27a847.png
+280,marina,Marina,female,octopus,26-Jun,normal,Soulful K.K.,blurp,villager-marina,https://villagerdb.com/images/villagers/thumb/marina.ec5975c.png
+281,marshal,Marshal,male,squirrel,29-Sep,smug,Space K.K.,sulky,villager-marshal,https://villagerdb.com/images/villagers/thumb/marshal.20eb375.png
+284,mathilda,Mathilda,female,kangaroo,12-Nov,snooty,K.K. Ragtime,wee baby,villager-mathilda,https://villagerdb.com/images/villagers/thumb/mathilda.e8c1348.png
+286,megan,Megan,female,bear,13-Mar,normal,NA,sundae,villager-megan,https://villagerdb.com/images/villagers/thumb/megan.38b7ad3.png
+288,melba,Melba,female,koala,12-Apr,normal,K.K. Ragtime,toasty,villager-melba,https://villagerdb.com/images/villagers/thumb/melba.613e950.png
+290,merengue,Merengue,female,rhino,19-Mar,normal,K.K. Stroll,shortcake,villager-merengue,https://villagerdb.com/images/villagers/thumb/merengue.6609ed1.png
+291,merry,Merry,female,cat,29-Jun,peppy,DJ K.K.,mweee,villager-merry,https://villagerdb.com/images/villagers/thumb/merry.1cbdb85.png
+292,midge,Midge,female,bird,12-Mar,normal,K.K. Lullaby,tweedledee,villager-midge,https://villagerdb.com/images/villagers/thumb/midge.037c656.png
+293,mint,Mint,female,squirrel,2-May,snooty,K.K. Soul,ahhhhhh,villager-mint,https://villagerdb.com/images/villagers/thumb/mint.bcc984a.png
+294,mira,Mira,female,rabbit,6-Jul,uchi,K.K. Tango,cottontail,villager-mira,https://villagerdb.com/images/villagers/thumb/mira.c70e26c.png
+295,miranda,Miranda,female,duck,23-Apr,snooty,K.K. Sonata,quackulous,villager-miranda,https://villagerdb.com/images/villagers/thumb/miranda.0990387.png
+296,mitzi,Mitzi,female,cat,25-Sep,normal,K.K. Swing,mew,villager-mitzi,https://villagerdb.com/images/villagers/thumb/mitzi.9f8d610.png
+297,moe,Moe,male,cat,12-Jan,lazy,K.K. Ragtime,myawn,villager-moe,https://villagerdb.com/images/villagers/thumb/moe.e759f9f.png
+298,molly,Molly,female,duck,7-Mar,normal,K.K. Ballad,quackidee,villager-molly,https://villagerdb.com/images/villagers/thumb/molly.627e58d.png
+299,monique,Monique,female,cat,30-Sep,snooty,K.K. Swing,pffffft,villager-monique,https://villagerdb.com/images/villagers/thumb/monique.0cd6905.png
+300,monty,Monty,male,monkey,7-Dec,cranky,Pondering,g'tang,villager-monty,https://villagerdb.com/images/villagers/thumb/monty.52ac3da.png
+301,moose,Moose,male,mouse,13-Sep,jock,Agent K.K.,shorty,villager-moose,https://villagerdb.com/images/villagers/thumb/moose.df04678.png
+302,mott,Mott,male,lion,10-Jul,jock,Marine Song 2001,cagey,villager-mott,https://villagerdb.com/images/villagers/thumb/mott.524604c.png
+303,muffy,Muffy,female,sheep,14-Feb,uchi,K.K. Sonata,nightshade,villager-muffy,https://villagerdb.com/images/villagers/thumb/muffy.1497c92.png
+304,murphy,Murphy,male,cub,29-Dec,cranky,Pondering,laddie,villager-murphy,https://villagerdb.com/images/villagers/thumb/murphy.b159459.png
+305,nan,Nan,female,goat,24-Aug,normal,K.K. Etude,kid,villager-nan,https://villagerdb.com/images/villagers/thumb/nan.f605366.png
+306,nana,Nana,female,monkey,23-Aug,normal,K.K. Dixie,po po,villager-nana,https://villagerdb.com/images/villagers/thumb/nana.f371d78.png
+307,naomi,Naomi,female,cow,28-Feb,snooty,K.K. Milonga,moolah,villager-naomi,https://villagerdb.com/images/villagers/thumb/naomi.e117ad3.png
+308,nate,Nate,male,bear,16-Aug,lazy,K.K. Lullaby,yawwwn,villager-nate,https://villagerdb.com/images/villagers/thumb/nate.24b3176.png
+309,nibbles,Nibbles,female,squirrel,19-Jul,peppy,K.K. Technopop,niblet,villager-nibbles,https://villagerdb.com/images/villagers/thumb/nibbles.29299de.png
+312,norma,Norma,female,cow,20-Sep,normal,Mountain Song,hoof hoo,villager-norma,https://villagerdb.com/images/villagers/thumb/norma.7543c8a.png
+314,octavian,Octavian,male,octopus,20-Sep,cranky,K.K. D & B,sucker,villager-octavian,https://villagerdb.com/images/villagers/thumb/octavian.aadabe9.png
+315,ohare,O'Hare,male,rabbit,24-Jul,smug,K.K. Island,amigo,villager-ohare,https://villagerdb.com/images/villagers/thumb/ohare.22607f6.png
+316,olaf,Olaf,male,anteater,19-May,smug,K.K. Milonga,whiffa,villager-olaf,https://villagerdb.com/images/villagers/thumb/olaf.e6b3f3b.png
+317,olive,Olive,female,cub,12-Jul,normal,Cafe K.K.,sweet pea,villager-olive,https://villagerdb.com/images/villagers/thumb/olive.d5fcb11.png
+318,olivia,Olivia,female,cat,3-Feb,snooty,Two Days Ago,purrr,villager-olivia,https://villagerdb.com/images/villagers/thumb/olivia.d2469ec.png
+319,opal,Opal,female,elephant,20-Jan,snooty,Forest Life,snoot,villager-opal,https://villagerdb.com/images/villagers/thumb/opal.789783f.png
+322,ozzie,Ozzie,male,koala,7-May,lazy,Mr. K.K.,ol' bear,villager-ozzie,https://villagerdb.com/images/villagers/thumb/ozzie.9b9c0d9.png
+323,pancetti,Pancetti,female,pig,14-Nov,snooty,K.K. Fusion,sooey,villager-pancetti,https://villagerdb.com/images/villagers/thumb/pancetti.71e43d2.png
+324,pango,Pango,female,anteater,9-Nov,peppy,K.K. Casbah,snooooof,villager-pango,https://villagerdb.com/images/villagers/thumb/pango.f2928a2.png
+325,paolo,Paolo,male,elephant,5-May,lazy,NA,pal,villager-paolo,https://villagerdb.com/images/villagers/thumb/paolo.a1d990d.png
+326,papi,Papi,male,horse,10-Jan,lazy,Hypno K.K.,haaay,villager-papi,https://villagerdb.com/images/villagers/thumb/papi.3ab462d.png
+327,pashmina,Pashmina,female,goat,26-Dec,uchi,K.K. Tango,kidders,villager-pashmina,https://villagerdb.com/images/villagers/thumb/pashmina.8916368.png
+328,pate,Pate,female,duck,23-Feb,peppy,K.K. Steppe,quackle,villager-pate,https://villagerdb.com/images/villagers/thumb/pate.c60838c.png
+330,patty,Patty,female,cow,10-May,peppy,K.K. Calypso,how now,villager-patty,https://villagerdb.com/images/villagers/thumb/patty.3e17f7f.png
+331,paula,Paula,female,bear,22-Mar,uchi,K.K. Dixie,yodelay,villager-paula,https://villagerdb.com/images/villagers/thumb/paula.563ba81.png
+332,peaches,Peaches,female,horse,28-Nov,normal,K.K. Song,neighbor,villager-peaches,https://villagerdb.com/images/villagers/thumb/peaches.15a02fe.png
+333,peanut,Peanut,female,squirrel,8-Jun,peppy,K.K. Salsa,slacker,villager-peanut,https://villagerdb.com/images/villagers/thumb/peanut.0d566a2.png
+334,pecan,Pecan,female,squirrel,10-Sep,snooty,Cafe K.K.,chipmunk,villager-pecan,https://villagerdb.com/images/villagers/thumb/pecan.0846a25.png
+335,peck,Peck,male,bird,25-Jul,jock,Forest Life,crunch,villager-peck,https://villagerdb.com/images/villagers/thumb/peck.57ff822.png
+336,peewee,Peewee,male,gorilla,11-Sep,cranky,K.K. Rally,li'l dude,villager-peewee,https://villagerdb.com/images/villagers/thumb/peewee.532d8d7.png
+337,peggy,Peggy,female,pig,23-May,peppy,K.K. Bossa,shweetie,villager-peggy,https://villagerdb.com/images/villagers/thumb/peggy.20867ae.png
+338,pekoe,Pekoe,female,cub,18-May,normal,Imperial K.K.,bud,villager-pekoe,https://villagerdb.com/images/villagers/thumb/pekoe.49ceeeb.png
+339,penelope,Penelope,female,mouse,5-Feb,peppy,Bubblegum K.K.,oh bow,villager-penelope,https://villagerdb.com/images/villagers/thumb/penelope.1e4f50e.png
+343,phil,Phil,male,ostrich,27-Nov,smug,Steep Hill,hurk,villager-phil,https://villagerdb.com/images/villagers/thumb/phil.c15f9ba.png
+344,phoebe,Phoebe,female,ostrich,22-Apr,uchi,K.K. Flamenco,sparky,villager-phoebe,https://villagerdb.com/images/villagers/thumb/phoebe.4f6b445.png
+345,pierce,Pierce,male,eagle,8-Jan,jock,K.K. Etude,hawkeye,villager-pierce,https://villagerdb.com/images/villagers/thumb/pierce.80c98ce.png
+347,pietro,Pietro,male,sheep,19-Apr,smug,K.K. Parade,honk honk,villager-pietro,https://villagerdb.com/images/villagers/thumb/pietro.67bb378.png
+349,pinky,Pinky,female,bear,9-Sep,peppy,Imperial K.K.,cubbie,villager-pinky,https://villagerdb.com/images/villagers/thumb/pinky.9d28acc.png
+350,piper,Piper,female,bird,18-Apr,peppy,K.K. Synth,chickadee,villager-piper,https://villagerdb.com/images/villagers/thumb/piper.fdb2a00.png
+351,pippy,Pippy,female,rabbit,14-Jun,peppy,K.K. Mambo,li'l hare,villager-pippy,https://villagerdb.com/images/villagers/thumb/pippy.d015ada.png
+353,plucky,Plucky,female,chicken,12-Oct,uchi,K.K. Island,chicky poo,villager-plucky,https://villagerdb.com/images/villagers/thumb/plucky.bc004cf.png
+355,pompom,Pompom,female,duck,11-Feb,peppy,K.K. Jazz,rah rah,villager-pompom,https://villagerdb.com/images/villagers/thumb/pompom.2f33190.png
+356,poncho,Poncho,male,cub,2-Jan,jock,K.K. Condor,li'l bear,villager-poncho,https://villagerdb.com/images/villagers/thumb/poncho.ebb4258.png
+357,poppy,Poppy,female,squirrel,5-Aug,normal,K.K. Lullaby,nutty,villager-poppy,https://villagerdb.com/images/villagers/thumb/poppy.6288fcd.png
+358,portia,Portia,female,dog,25-Oct,snooty,Cafe K.K.,ruffian,villager-portia,https://villagerdb.com/images/villagers/thumb/portia.6028662.png
+359,prince,Prince,male,frog,21-Jul,lazy,To the Edge,burrup,villager-prince,https://villagerdb.com/images/villagers/thumb/prince.8fd20ee.png
+360,puck,Puck,male,penguin,21-Feb,lazy,K.K. Casbah,brrrrrrrrr,villager-puck,https://villagerdb.com/images/villagers/thumb/puck.eaefc0e.png
+361,puddles,Puddles,female,frog,13-Jan,peppy,K.K. Ballad,splish,villager-puddles,https://villagerdb.com/images/villagers/thumb/puddles.d9849f2.png
+362,pudge,Pudge,male,cub,11-Jun,lazy,Rockin' K.K.,pudgy,villager-pudge,https://villagerdb.com/images/villagers/thumb/pudge.874ac11.png
+363,punchy,Punchy,male,cat,11-Apr,lazy,K.K. Love Song,mrmpht,villager-punchy,https://villagerdb.com/images/villagers/thumb/punchy.0af8574.png
+364,purrl,Purrl,female,cat,29-May,snooty,K.K. Swing,kitten,villager-purrl,https://villagerdb.com/images/villagers/thumb/purrl.86e9b24.png
+365,queenie,Queenie,female,ostrich,13-Nov,snooty,K.K. Gumbo,chicken,villager-queenie,https://villagerdb.com/images/villagers/thumb/queenie.0cb590d.png
+367,quillson,Quillson,male,duck,22-Dec,smug,K.K. Groove,ridukulous,villager-quillson,https://villagerdb.com/images/villagers/thumb/quillson.19246b2.png
+368,raddle,Raddle,male,frog,6-Jun,lazy,Mr. K.K.,aaach,villager-raddle,https://villagerdb.com/images/villagers/thumb/raddle.69151f4.png
+369,rasher,Rasher,male,pig,7-Apr,cranky,K.K. Faire,swine,villager-rasher,https://villagerdb.com/images/villagers/thumb/rasher.8b931b4.png
+370,raymond,Raymond,male,cat,1-Oct,smug,NA,crisp,villager-raymond,https://villagerdb.com/images/villagers/thumb/raymond.0346dd7.png
+371,renee,Renée,female,rhino,28-May,uchi,Surfin' K.K.,yo yo yo,villager-renee,https://villagerdb.com/images/villagers/thumb/renee.95d3037.png
+372,reneigh,Reneigh,female,horse,4-Jun,uchi,NA,ayup yup,villager-reneigh,https://villagerdb.com/images/villagers/thumb/reneigh.1e4ac2f.png
+373,rex,Rex,male,lion,24-Jul,lazy,Wandering,cool cat,villager-rex,https://villagerdb.com/images/villagers/thumb/rex.33d6f95.png
+375,rhonda,Rhonda,female,rhino,24-Jan,normal,K.K. Ballad,bigfoot,villager-rhonda,https://villagerdb.com/images/villagers/thumb/rhonda.37db65d.png
+376,ribbot,Ribbot,male,frog,13-Feb,jock,Go K.K. Rider!,zzrrbbitt,villager-ribbot,https://villagerdb.com/images/villagers/thumb/ribbot.3e41b01.png
+377,ricky,Ricky,male,squirrel,14-Sep,cranky,K.K. Western,nutcase,villager-ricky,https://villagerdb.com/images/villagers/thumb/ricky.f06d6eb.png
+380,rizzo,Rizzo,male,mouse,17-Jan,cranky,K.K. Lament,squee,villager-rizzo,https://villagerdb.com/images/villagers/thumb/rizzo.70b6451.png
+381,roald,Roald,male,penguin,5-Jan,jock,K.K. Parade,b-b-buddy,villager-roald,https://villagerdb.com/images/villagers/thumb/roald.9f2e8ea.png
+382,robin,Robin,female,bird,4-Dec,snooty,K.K. Bossa,la-di-da,villager-robin,https://villagerdb.com/images/villagers/thumb/robin.e227ada.png
+383,rocco,Rocco,male,hippo,18-Aug,cranky,K.K. Lament,hippie,villager-rocco,https://villagerdb.com/images/villagers/thumb/rocco.a5f436d.png
+384,rocket,Rocket,female,gorilla,14-Apr,uchi,K.K. Adventure,vroom,villager-rocket,https://villagerdb.com/images/villagers/thumb/rocket.953ffae.png
+385,rod,Rod,male,mouse,14-Aug,jock,K.K. March,ace,villager-rod,https://villagerdb.com/images/villagers/thumb/rod.12fb455.png
+386,rodeo,Rodeo,male,bull,29-Oct,lazy,Stale Cupcakes,chaps,villager-rodeo,https://villagerdb.com/images/villagers/thumb/rodeo.9f41e8e.png
+387,rodney,Rodney,male,hamster,10-Nov,smug,K.K. Rockabilly,le ham,villager-rodney,https://villagerdb.com/images/villagers/thumb/rodney.80895c1.png
+388,rolf,Rolf,male,tiger,22-Aug,cranky,Spring Blossoms,grrrolf,villager-rolf,https://villagerdb.com/images/villagers/thumb/rolf.ed16f11.png
+390,rooney,Rooney,male,kangaroo,1-Dec,cranky,K.K. Adventure,punches,villager-rooney,https://villagerdb.com/images/villagers/thumb/rooney.b1ff37f.png
+391,rory,Rory,male,lion,7-Aug,jock,K.K. Faire,capital,villager-rory,https://villagerdb.com/images/villagers/thumb/rory.9100bc2.png
+392,roscoe,Roscoe,male,horse,16-Jun,cranky,K.K. Dirge,nay,villager-roscoe,https://villagerdb.com/images/villagers/thumb/roscoe.8f5834d.png
+393,rosie,Rosie,female,cat,27-Feb,peppy,Bubblegum K.K.,silly,villager-rosie,https://villagerdb.com/images/villagers/thumb/rosie.9a2d284.png
+394,rowan,Rowan,male,tiger,26-Aug,jock,K.K. Love Song,mango,villager-rowan,https://villagerdb.com/images/villagers/thumb/rowan.2a79cf3.png
+395,ruby,Ruby,female,rabbit,25-Dec,peppy,K.K. Ska,li'l ears,villager-ruby,https://villagerdb.com/images/villagers/thumb/ruby.e4c1b32.png
+396,rudy,Rudy,male,cat,20-Dec,jock,The K. Funk,tokana,villager-rudy,https://villagerdb.com/images/villagers/thumb/rudy.801eac1.png
+398,sally2,Sally,female,squirrel,19-Jun,normal,K.K. Fusion,nutmeg,villager-sally2,https://villagerdb.com/images/villagers/thumb/sally2.1a6be28.png
+399,samson,Samson,male,mouse,5-Jul,jock,Go K.K. Rider!,pipsqueak,villager-samson,https://villagerdb.com/images/villagers/thumb/samson.4fc5d10.png
+400,sandy,Sandy,female,ostrich,21-Oct,normal,K.K. Soul,speedy,villager-sandy,https://villagerdb.com/images/villagers/thumb/sandy.4f9d76d.png
+401,savannah,Savannah,female,horse,25-Jan,normal,Forest Life,y'all,villager-savannah,https://villagerdb.com/images/villagers/thumb/savannah.35a330d.png
+402,scoot,Scoot,male,duck,13-Jun,jock,Marine Song 2001,zip zoom,villager-scoot,https://villagerdb.com/images/villagers/thumb/scoot.edd4f2f.png
+403,shari,Shari,female,monkey,10-Apr,uchi,K.K. Oasis,cheeky,villager-shari,https://villagerdb.com/images/villagers/thumb/shari.a94a2c9.png
+404,sheldon,Sheldon,male,squirrel,26-Feb,jock,K.K. Folk,cardio,villager-sheldon,https://villagerdb.com/images/villagers/thumb/sheldon.b3d2b0b.png
+405,shep,Shep,male,dog,24-Nov,smug,K.K. Reggae,baaa man,villager-shep,https://villagerdb.com/images/villagers/thumb/shep.1d78fc5.png
+406,sherb,Sherb,male,goat,18-Jan,lazy,NA,bawwww,villager-sherb,https://villagerdb.com/images/villagers/thumb/sherb.484a0a7.png
+409,simon,Simon,male,monkey,19-Jan,lazy,Forest Life,zzzook,villager-simon,https://villagerdb.com/images/villagers/thumb/simon.8037c14.png
+410,skye,Skye,female,wolf,24-Mar,normal,Forest Life,airmail,villager-skye,https://villagerdb.com/images/villagers/thumb/skye.de505c2.png
+411,sly,Sly,male,alligator,15-Nov,jock,K.K. Safari,hoo-rah,villager-sly,https://villagerdb.com/images/villagers/thumb/sly.f97e383.png
+412,snake,Snake,male,rabbit,3-Nov,jock,K.K. Lullaby,bunyip,villager-snake,https://villagerdb.com/images/villagers/thumb/snake.bc75841.png
+413,snooty,Snooty,female,anteater,24-Oct,snooty,Imperial K.K.,snifffff,villager-snooty,https://villagerdb.com/images/villagers/thumb/snooty.2cda89f.png
+414,soleil,Soleil,female,hamster,9-Aug,snooty,K.K. Oasis,tarnation,villager-soleil,https://villagerdb.com/images/villagers/thumb/soleil.03c7862.png
+415,sparro,Sparro,male,bird,20-Nov,jock,Steep Hill,like whoa,villager-sparro,https://villagerdb.com/images/villagers/thumb/sparro.25dc53d.png
+416,spike,Spike,male,rhino,17-Jun,cranky,NA,punk,villager-spike,https://villagerdb.com/images/villagers/thumb/spike.de637c8.png
+417,spork,Spork,male,pig,3-Sep,lazy,K.K. Mambo,snork,villager-spork,https://villagerdb.com/images/villagers/thumb/spork.d6a3325.png
+418,sprinkle,Sprinkle,female,penguin,20-Feb,peppy,Cafe K.K.,frappe,villager-sprinkle,https://villagerdb.com/images/villagers/thumb/sprinkle.48e1484.png
+419,sprocket,Sprocket,male,ostrich,1-Dec,jock,K.K. Metal,zort,villager-sprocket,https://villagerdb.com/images/villagers/thumb/sprocket.19ded4f.png
+420,static,Static,male,squirrel,9-Jul,cranky,Surfin' K.K.,krzzt,villager-static,https://villagerdb.com/images/villagers/thumb/static.6a22c41.png
+421,stella,Stella,female,sheep,9-Apr,normal,Only Me,baa-dabing,villager-stella,https://villagerdb.com/images/villagers/thumb/stella.5c98a2b.png
+422,sterling,Sterling,male,eagle,11-Dec,jock,Lucky K.K.,skraaaaw,villager-sterling,https://villagerdb.com/images/villagers/thumb/sterling.fef732a.png
+423,stinky,Stinky,male,cat,17-Aug,jock,Go K.K. Rider!,GAHHHH,villager-stinky,https://villagerdb.com/images/villagers/thumb/stinky.edeaa15.png
+424,stitches,Stitches,male,cub,10-Feb,lazy,K.K. Lullaby,stuffin',villager-stitches,https://villagerdb.com/images/villagers/thumb/stitches.f89edfb.png
+425,stu,Stu,male,bull,20-Apr,lazy,K.K. Rockabilly,moo-dude,villager-stu,https://villagerdb.com/images/villagers/thumb/stu.5a38b9e.png
+429,sydney,Sydney,female,koala,21-Jun,normal,K.K. Country,sunshine,villager-sydney,https://villagerdb.com/images/villagers/thumb/sydney.c0a4570.png
+430,sylvana,Sylvana,female,squirrel,22-Oct,normal,Spring Blossoms,hubbub,villager-sylvana,https://villagerdb.com/images/villagers/thumb/sylvana.d2191c0.png
+431,sylvia,Sylvia,female,kangaroo,3-May,uchi,Rockin' K.K.,ne,villager-sylvia,https://villagerdb.com/images/villagers/thumb/sylvia.fc670df.png
+432,t-bone,T-Bone,male,bull,20-May,cranky,K.K. Steppe,moocher,villager-t-bone,https://villagerdb.com/images/villagers/thumb/t-bone.9b88a71.png
+433,tabby,Tabby,female,cat,13-Aug,peppy,To the Edge,me-WOW,villager-tabby,https://villagerdb.com/images/villagers/thumb/tabby.5b315a7.png
+434,tad,Tad,male,frog,3-Aug,jock,Wandering,sluuuurp,villager-tad,https://villagerdb.com/images/villagers/thumb/tad.e747734.png
+435,tammi,Tammi,female,monkey,2-Apr,peppy,Imperial K.K.,chimpy,villager-tammi,https://villagerdb.com/images/villagers/thumb/tammi.eb69d8d.png
+436,tammy,Tammy,female,cub,23-Jun,uchi,K.K. Disco,ya heard,villager-tammy,https://villagerdb.com/images/villagers/thumb/tammy.785a9be.png
+437,tangy,Tangy,female,cat,17-Jun,peppy,K.K. Island,reeeeOWR,villager-tangy,https://villagerdb.com/images/villagers/thumb/tangy.414df6e.png
+438,tank,Tank,male,rhino,6-May,jock,K.K. Lament,kerPOW,villager-tank,https://villagerdb.com/images/villagers/thumb/tank.b6aa588.png
+440,tasha,Tasha,female,squirrel,30-Nov,snooty,K.K. Disco,yaruwane,villager-tasha,https://villagerdb.com/images/villagers/thumb/tasha.1ad9dd3.png
+441,teddy,Teddy,male,bear,26-Sep,jock,Mr. K.K.,grooof,villager-teddy,https://villagerdb.com/images/villagers/thumb/teddy.450e97f.png
+442,tex,Tex,male,penguin,6-Oct,smug,K.K. Metal,picante,villager-tex,https://villagerdb.com/images/villagers/thumb/tex.eaa7fc2.png
+443,tia,Tia,female,elephant,18-Nov,normal,K.K. Marathon,teacup,villager-tia,https://villagerdb.com/images/villagers/thumb/tia.91572fd.png
+445,tiffany,Tiffany,female,rabbit,9-Jan,snooty,K.K. Rock,bun bun,villager-tiffany,https://villagerdb.com/images/villagers/thumb/tiffany.5a0c278.png
+446,timbra,Timbra,female,sheep,21-Oct,snooty,K.K. Cruisin',pine nut,villager-timbra,https://villagerdb.com/images/villagers/thumb/timbra.c8f290e.png
+447,tipper,Tipper,female,cow,25-Aug,snooty,Soulful K.K.,pushy,villager-tipper,https://villagerdb.com/images/villagers/thumb/tipper.71849cc.png
+449,tom,Tom,male,cat,10-Dec,cranky,K.K. Rally,me-YOWZA,villager-tom,https://villagerdb.com/images/villagers/thumb/tom.4168bc1.png
+450,truffles,Truffles,female,pig,28-Jul,peppy,Two Days Ago,snoutie,villager-truffles,https://villagerdb.com/images/villagers/thumb/truffles.a71716a.png
+451,tucker,Tucker,male,elephant,7-Sep,lazy,K.K. Safari,fuzzers,villager-tucker,https://villagerdb.com/images/villagers/thumb/tucker.031fef0.png
+452,tutu,Tutu,female,bear,15-Sep,peppy,K.K. Steppe,twinkles,villager-tutu,https://villagerdb.com/images/villagers/thumb/tutu.90d25cb.png
+453,twiggy,Twiggy,female,bird,13-Jul,peppy,K.K. Calypso,cheepers,villager-twiggy,https://villagerdb.com/images/villagers/thumb/twiggy.ecce534.png
+455,tybalt,Tybalt,male,tiger,19-Aug,jock,K.K. Salsa,grrRAH,villager-tybalt,https://villagerdb.com/images/villagers/thumb/tybalt.5786d93.png
+456,ursala,Ursala,female,bear,16-Jan,uchi,K.K. Country,grooomph,villager-ursala,https://villagerdb.com/images/villagers/thumb/ursala.2c32065.png
+458,velma,Velma,female,goat,14-Jan,snooty,K.K. Etude,blih,villager-velma,https://villagerdb.com/images/villagers/thumb/velma.deeb42d.png
+460,vesta,Vesta,female,sheep,16-Apr,normal,K.K. Steppe,baaaffo,villager-vesta,https://villagerdb.com/images/villagers/thumb/vesta.cd61f44.png
+461,vic,Vic,male,bull,29-Dec,cranky,Lucky K.K.,cud,villager-vic,https://villagerdb.com/images/villagers/thumb/vic.a5af25f.png
+463,victoria,Victoria,female,horse,11-Jul,peppy,K.K. Country,sugar cube,villager-victoria,https://villagerdb.com/images/villagers/thumb/victoria.2438930.png
+464,violet,Violet,female,gorilla,1-Sep,snooty,K.K. Faire,faboom,villager-violet,https://villagerdb.com/images/villagers/thumb/violet.cc15319.png
+465,vivian,Vivian,female,wolf,26-Jan,snooty,K.K. Cruisin',dawayo,villager-vivian,https://villagerdb.com/images/villagers/thumb/vivian.e4140f8.png
+466,vladimir,Vladimir,male,cub,2-Aug,cranky,Agent K.K.,nyet,villager-vladimir,https://villagerdb.com/images/villagers/thumb/vladimir.24aab71.png
+467,wade,Wade,male,penguin,30-Oct,lazy,K.K. Jongara,so it goes,villager-wade,https://villagerdb.com/images/villagers/thumb/wade.a3f570e.png
+468,walker,Walker,male,dog,10-Jun,lazy,Two Days Ago,wuh,villager-walker,https://villagerdb.com/images/villagers/thumb/walker.b3197d7.png
+469,walt,Walt,male,kangaroo,24-Apr,cranky,Agent K.K.,pockets,villager-walt,https://villagerdb.com/images/villagers/thumb/walt.eed525f.png
+470,wart-jr,Wart Jr.,male,frog,21-Aug,cranky,To the Edge,grr-ribbit,villager-wart-jr,https://villagerdb.com/images/villagers/thumb/wart-jr.63e4670.png
+471,weber,Weber,male,duck,30-Jun,lazy,K.K. Fusion,quaa,villager-weber,https://villagerdb.com/images/villagers/thumb/weber.bb7ad83.png
+472,wendy,Wendy,female,sheep,15-Aug,peppy,K.K. Bossa,lambkins,villager-wendy,https://villagerdb.com/images/villagers/thumb/wendy.733d1c6.png
+473,whitney,Whitney,female,wolf,17-Sep,snooty,Lucky K.K.,snappy,villager-whitney,https://villagerdb.com/images/villagers/thumb/whitney.78d8071.png
+474,willow,Willow,female,sheep,26-Nov,snooty,K.K. Etude,bo peep,villager-willow,https://villagerdb.com/images/villagers/thumb/willow.8eb3ed9.png
+475,winnie,Winnie,female,horse,31-Jan,peppy,My Place,hay-OK,villager-winnie,https://villagerdb.com/images/villagers/thumb/winnie.46fdea3.png
+477,wolfgang,Wolfgang,male,wolf,25-Nov,cranky,K.K. Song,snarrrl,villager-wolfgang,https://villagerdb.com/images/villagers/thumb/wolfgang.8804196.png
+480,yuka,Yuka,female,koala,20-Jul,snooty,Soulful K.K.,tsk tsk,villager-yuka,https://villagerdb.com/images/villagers/thumb/yuka.0c43bf0.png
+481,zell,Zell,male,deer,7-Jun,smug,K.K. D&B,pronk,villager-zell,https://villagerdb.com/images/villagers/thumb/zell.c7c193c.png
+483,zucker,Zucker,male,octopus,8-Mar,lazy,Spring Blossoms,bloop,villager-zucker,https://villagerdb.com/images/villagers/thumb/zucker.8dbb719.png
