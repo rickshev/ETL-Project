@@ -1,5 +1,4 @@
 **#ANIMAL CROSSING**
-
 ![AnimalCrossingimg2](https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/Poncho_NewLeaf_Official.png/revision/latest?cb=20130721204234)
 
 The ETL (EXTRACT--TRANFORM--LOAD) project aims to use Pandas, PostGreSQL, and SQLAlchemy among other programming languages to scrape a website and profile the relevant data to tell a story. Our story involves a prime source of comfort, wholesome DIY crafts, and adorable anthromorphic villagers: Animal Crossing.  
@@ -13,7 +12,6 @@ Animal Crossing is a video game created by Nintendo which lets a user create the
 *url3=  'https://animalcrossing.fandom.com/wiki/Category:Special_characters'*
 
 These websites and CSVs helped execute the first part of the project: Extract.
-
 ![AnimalCrossingimg](https://media.wired.com/photos/5e8cebbda231050008136013/master/w_2560%2Cc_limit/animal-crossing-history-wired.jpg)
 
 ***Extract*** - We used pandas dataframes to read the above urls and CSV files from Kaggle, and extracted the columns we wanted to portray in jupyter notebook. These columns contained additional information apart from the above listed qualities such as villager songs, villager birthdays, and names. Once we had this data we realized that there were duplicates due to the multiple versions of the game, which led us to step II. 
